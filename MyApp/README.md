@@ -15,5 +15,5 @@ cd MyApp
 code .
 ```
 
-- vscode will popup dialog on lower right conner.
-- Reply "yes" for auto-generate launch.json in .vscode folder
+- vscode will popup a dialog on lower right conner asking for required assets to build and debug.
+- Reply "yes" to add the required assets in .vscode folder
