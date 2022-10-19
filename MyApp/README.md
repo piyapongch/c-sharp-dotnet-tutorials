@@ -1,5 +1,8 @@
 # MyApp
 
+## Hello World tutorial
+- https://dotnet.microsoft.com/en-us/learn/dotnet/hello-world-tutorial/intro
+
 ## Create console application
 
 ```shell
