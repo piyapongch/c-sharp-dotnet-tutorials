@@ -3,6 +3,9 @@
 ## Hello World tutorial
 - https://dotnet.microsoft.com/en-us/learn/dotnet/hello-world-tutorial/intro
 
+## Installation
+- https://dotnet.microsoft.com/en-us/learn/dotnet/hello-world-tutorial/install
+
 ## Create console application
 
 ```shell
